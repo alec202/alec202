@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alec202
-- 👀 I’m interested in a summer internship in something related to computer science.
+- 👀 I’m interested in a summer internship in software engineering, but I am interested in other fields of computer science.
 - 🌱 I’m currently learning Data structures and algorithms, Java, and building upon my python knowledge
 - 💞️ I’m looking to collaborate on anything. I want to become a better programmer.
 - 📫 How to reach me: alecmirambeau1@gmail.com
