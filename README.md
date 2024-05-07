@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @alec202
-- 👀 I’m interested in a summer internship in software engineering, but I am interested in other fields of computer science.
-- 🌱 I’m currently learning Data structures and algorithms, Kotlin, and building upon my python knowledge
-- 💞️ I’m looking to collaborate on anything. I want to become a better programmer.
+- 👋 Hi, I’m Alec Mirambeau, I attend Grand Valley State University
+- 👀 I’m interested in a summer internship in software engineering, mobile development, cloud computing and other fields of computer science.
 - 📫 How to reach me: alecmirambeau1@gmail.com
 - ⚽️ My hobbies are any sort of physical activities like sports, spending time with family and friends, learning, and coding of course!
 
