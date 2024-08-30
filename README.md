@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alec Mirambeau, I attend Grand Valley State University
+- 👋 Hi, I’m Alec Mirambeau, I'm currently enrolled at Grand Valley State University as a computer science major, but I've acquired my associates from Grand Rapids Community College studying pre-computer science.
 - 👀 I’m interested in an internship in software engineering, web application development, mobile development, cloud computing and other fields of computer science.
 - 📫 How to reach me: alecmirambeau1@gmail.com
 - ⚽️ My hobbies are any sort of physical activities like sports (especially soccer, pickleball, and running), spending time with family and friends, video games, and coding of course!
